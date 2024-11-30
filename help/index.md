@@ -1,11 +1,13 @@
 ## Розробка чат-ботів в Python
 
-[HackIt](hackit.jpeg)
+[HackIt](it/hackit.md)
 
 ---
 
 ### Зміст 
 
 1. [Знайомство з TelegramBotApi](lesson01/help.md)
-2. ...
-gdegdgrxfb
+2. [Обробка повідомлень, клавіатура](lesson02/help.md)
+3. [Робота з наліпками](lesson03/help.md)
+4. ...
+
