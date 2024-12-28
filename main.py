@@ -9,7 +9,7 @@ list_sticker = ['CAACAgIAAxkBAAO3Z0iqLLOSpaCz8_EVHM7uWxrxLD4AAgUAA8A2TxP5al-agmt
 
 
 # --- commands ----------------------------------------------------------------
-@bot.message_handler(commands=['statr'])
+@bot.message_handler(commands=['start'])
 def bot_start(message):
     bot.send_message(message.chat.id, ' Start!')
 
