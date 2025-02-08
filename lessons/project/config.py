@@ -1,0 +1,2 @@
+TOKEN = "7688946735:AAHssgKXxiknVKQK-F6gQTyv6_MD8mfAeG0"
+DB_NAME = 'notebook.db'
